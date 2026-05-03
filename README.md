@@ -55,7 +55,7 @@ Cada entidad contiene atributos definidos según los requerimientos del sistema.
 
 El sistema fue desarrollado bajo el patrón MVC:
 
-
+```
 app/
 ├── Controller/
 ├── Model/
@@ -63,9 +63,7 @@ app/
 
 Config/
 Public/
-
-
----
+```
 
 ## 🛠️ Instalación y Ejecución
 
